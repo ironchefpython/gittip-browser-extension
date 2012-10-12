@@ -1,2 +1,0 @@
-{"ts":1350059672993,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"gittip-browser-extension\n========================\n\nSimple browser extension for gittip"]],"start1":0,"start2":0,"length1":0,"length2":86}]],"length":86}
-{"contributors":[],"silentsave":false,"ts":1350059867401,"patch":[[{"diffs":[[0,"n for gittip"],[1," - Initial release via a userscript and tested (briefly) in firefox and chrome."]],"start1":74,"start2":74,"length1":12,"length2":91}]],"length":165,"saved":false}
